@@ -11,8 +11,12 @@ public class A {
     System.out.println("Test A process");
 
   }
-
+  
   private void theOne() {
     System.out.println("add function 1");
+  }
+  
+  private void createNewFunction() {
+    System.out.println("add function 2");
   }
 }
