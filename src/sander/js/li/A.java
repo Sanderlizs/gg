@@ -2,7 +2,7 @@ package sander.js.li;
 
 public class A {
   /**
-   * new v1.1 and add feature function
+   * release v1.1
    * 
    * @param args
    */
@@ -19,4 +19,5 @@ public class A {
   private void createNewFunction() {
     System.out.println("add function 2");
   }
+  
 }
