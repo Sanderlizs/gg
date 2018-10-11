@@ -2,7 +2,7 @@ package sander.js.li;
 
 public class A {
   /**
-   * release v1.0.0
+   * new v1.1 and add feature function
    * 
    * @param args
    */
